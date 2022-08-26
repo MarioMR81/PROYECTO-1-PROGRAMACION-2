@@ -1,0 +1,26 @@
+{   
+"Personas":[{
+    "nombre" : " MARIO RENE QUINTEROS",
+    "nit" : "299423450101" ,
+    "rol" : "1"
+  },
+
+  { 
+    "nombre" : "JUAN JOSE LOPEZ",
+  "nit" : "2989235480101" ,
+  "rol" : "2"
+  },
+
+  { 
+    "nombre" : "LUISA REYNA PEREZ",
+  "nit" : "2999321540101" ,
+  "rol" : "3"
+  },
+
+  { 
+    "nombre" : "JOSUE DANIEL LINARES",
+  "nit" : "2985654780101" ,
+  "rol" : "4"
+    }
+]
+}
