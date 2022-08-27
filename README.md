@@ -101,6 +101,9 @@ Como vemos ahora el ticket esta en la cola de desarrollo y tambien se debe de mo
 
 Como vemos se muestra en la bitacora todos los eventos que fueron generados durante la ejecucion del programa desde la creacion del ticket, la solucion hasta la escalacion hacia otro rol dentro del programa como tambien la fecha y hora del evento dentro de la bitacora esas serian las opciones mas importantes del programa al momento de su ejecucion.
 
+![13](https://user-images.githubusercontent.com/91577396/187009767-dbce8863-72ff-423f-913f-080ac50e65dd.png)
+
+Recordemos tambien que el acrchivo.JSON tiene una funcionalidad muy importante ya que es el metodo por el cual la gran parte del programa se puede ejecutar y tambien ir generando una bitacora con todos los datos que ya hemos mencionado anteriormente dentro de este manual del usuario
 # Solucion de algunos Problemas 
 
 Al momento de ejecutar el programa puede que sea un poco complicado el poder comprender la funcionalidad del programa o del uso del arhivo.JSON, como sabemos se pueden presentar algunos fallos algunos pueden ser provocados por el usuario o otros por el programador pero con la simple accion de ir paso a paso conforme al manual y video se puede tener una mejor comprension del programa como tambien la aplicacion de todas las funcionalidades del programa y hacer los llamados correctamente.
